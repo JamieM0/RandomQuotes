@@ -1,0 +1,11 @@
+C:\Users\Jamie\Documents\GitHub\RandomQuotes\RandomQuotes\bin\Debug\RandomQuotes.exe.config
+C:\Users\Jamie\Documents\GitHub\RandomQuotes\RandomQuotes\bin\Debug\RandomQuotes.exe
+C:\Users\Jamie\Documents\GitHub\RandomQuotes\RandomQuotes\bin\Debug\RandomQuotes.pdb
+C:\Users\Jamie\Documents\GitHub\RandomQuotes\RandomQuotes\obj\Debug\RandomQuotes.csproj.AssemblyReference.cache
+C:\Users\Jamie\Documents\GitHub\RandomQuotes\RandomQuotes\obj\Debug\RandomQuotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jamie\Documents\GitHub\RandomQuotes\RandomQuotes\obj\Debug\RandomQuotes.frm1.resources
+C:\Users\Jamie\Documents\GitHub\RandomQuotes\RandomQuotes\obj\Debug\RandomQuotes.Properties.Resources.resources
+C:\Users\Jamie\Documents\GitHub\RandomQuotes\RandomQuotes\obj\Debug\RandomQuotes.csproj.GenerateResource.cache
+C:\Users\Jamie\Documents\GitHub\RandomQuotes\RandomQuotes\obj\Debug\RandomQuotes.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Documents\GitHub\RandomQuotes\RandomQuotes\obj\Debug\RandomQuotes.exe
+C:\Users\Jamie\Documents\GitHub\RandomQuotes\RandomQuotes\obj\Debug\RandomQuotes.pdb
