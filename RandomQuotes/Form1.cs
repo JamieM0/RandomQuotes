@@ -20,14 +20,14 @@ namespace RandomQuotes
             if (!File.Exists("quotes.txt"))
             {
                 WebClient Client = new WebClient();
-                Client.DownloadFile("https://link.storjshare.io/jxu7x3q2w22ls6lq7x3diqrozlka/publicresources%2FQuotesRandom.txt?download=1", "quotes.txt");
-                Client.DownloadFile("https://link.storjshare.io/jwiechv4ycd2ysoxiufzfmdfldya/publicresources%2Fbackgrounds%2F1.jpg?download=1", "1.jpg");
-                Client.DownloadFile("https://link.storjshare.io/jvref5prl4mb4johwa4xik6i2f4q/publicresources%2Fbackgrounds%2F2.jpg?download=1", "2.jpg");
-                Client.DownloadFile("https://link.storjshare.io/jvge35wr2r4pc2kgtaiaiizjd25q/publicresources%2Fbackgrounds%2F3.jpg?download=1", "3.jpg");
-                Client.DownloadFile("https://link.storjshare.io/jxhcai4ktnczukynsezlkufzdcdq/publicresources%2Fbackgrounds%2F4.jpg?download=1", "4.jpg");
-                Client.DownloadFile("https://link.storjshare.io/jvdp6neovneonhu2pc6zu32de6qq/publicresources%2Fbackgrounds%2F5.jpg?download=1", "5.jpg");
-                Client.DownloadFile("https://link.storjshare.io/jvfvq3nhdta2rgc5vduk3x3nvdsq/publicresources%2Fbackgrounds%2F6.jpg?download=1", "6.jpg");
-                Client.DownloadFile("https://link.storjshare.io/jvncubbznwmej5zhxwz2lpezgwwa/publicresources%2Fbackgrounds%2F7.jpg?download=1", "7.jpg");
+                Client.DownloadFile("https://cdn.discordapp.com/attachments/995459834184999053/995460088414351411/QuotesRandom.txt", "quotes.txt");
+                Client.DownloadFile("https://cdn.discordapp.com/attachments/995459834184999053/995460268245139466/1.jpg", "1.jpg");
+                Client.DownloadFile("https://cdn.discordapp.com/attachments/995459834184999053/995460268530343936/2.jpg", "2.jpg");
+                Client.DownloadFile("https://cdn.discordapp.com/attachments/995459834184999053/995460268773625866/3.jpg", "3.jpg");
+                Client.DownloadFile("https://cdn.discordapp.com/attachments/995459834184999053/995460269046251560/4.jpg", "4.jpg");
+                Client.DownloadFile("https://cdn.discordapp.com/attachments/995459834184999053/995460269314674738/5.jpg", "5.jpg");
+                Client.DownloadFile("https://cdn.discordapp.com/attachments/995459834184999053/995460269570535565/6.jpg", "6.jpg");
+                Client.DownloadFile("https://cdn.discordapp.com/attachments/995459834184999053/995460269817987222/7.jpg", "7.jpg");
 
 
             }
